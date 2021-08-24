@@ -1,12 +1,14 @@
-💜 Olá, meu nome é {seu nome}!
-Faça uma breve aprensentação sobre você e a sua área.
+import Desenvolvedor from 'SeuNick';
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+class SobreMim extends Desenvolvedor {
+  nome     = 'Seu nome';
+  area    = 'Sua área';
+  trabalho  = 'Onde trabalha';
+  local = 'Local';
+}
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-🚀 Minhas Skills
-c Javascript Typescript Nodejs HTML5 CSS Bootstrap React Angular MySQL PostegreSQL MongoDB
-
-⭐ Informações sobre minha conta GitHub
-GitHub Stats
+class Skills extends Desenvolvedor {
+  linguagens  = ['Suas linguagens'];
+  bibliotecas  = ['Suas bibliotecas'];
+  frameworks = ['Seus frameworks'];
+}
