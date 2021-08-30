@@ -6,15 +6,10 @@ Estou iniciando no mundo da programação e estou aqui para aprender e compartil
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-kotlin
-{
- val name = "Samuel Alan Andrade Barbosa"
- val acknowledgements = "Desenvolvedor Front-End"
- 
- val primarySkillset = "PRINCIPAIS HABILIDADES"
- val languages = listOf("HTML", "CSS", "JavaScript", "React") 
-
-}
+<p align="left"> 
+  Eu sou o Samuel, tenho 24 anos e sou um dev <strong>Front-End</strong>.<br>
+  Estou cursando Sistemas de Informação e estou em busca de um estágio.
+</p>
 
 
 ## **Linguagens e Ferramentas:**  
