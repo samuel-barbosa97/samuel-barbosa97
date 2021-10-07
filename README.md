@@ -9,14 +9,13 @@
  
  Me chamo Samuel, mas pode me chamar de Samuca 🤙.
  
- Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
- Atualmente estou no 2º semestre e estou em busca de uma oportunidade estágio.
+ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, atualmente estou no 2º semestre e estou em busca de uma oportunidade estágio.
  
  🎯Estou focado em Javascript no momento.
  
 </p>
 
-<img align="right" alt="GIF" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" width="300" height="220" />
 
 ## **Linguagens e Ferramentas:**  
 
