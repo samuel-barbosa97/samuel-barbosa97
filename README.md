@@ -22,9 +22,9 @@
  
  Tenho 24 anos, sou de Araraquara, interior de São Paulo.
  
- Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, atualmente estou no 2º semestre. Desde 2021 no foco em desenvolvimento, principalmente na área Web.
+ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, atualmente estou no 2º semestre.
  
- Devido a um acidente automobilistico no ano de 2021 fiquei um pouco limitado em algumas atividades do cotidiano, a programção me fez os olhos brilharem novamente, desde então virei um apaixonado por tecnologia.
+ Atuei por mais de 4 anos no setor Logístico, principalmente na área de transportes e suprimentos, trago uma bagagem de experiência com metodologias ágeis e competências muito utilizadas na indústria.
  
 </p>
 
@@ -49,21 +49,21 @@
 📊 **Tenho focado em:**
 <!--START_SECTION:waka-->
 ```text
-HTML/CSS     5 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.65 % 
-JavaScript   4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.92 % 
-ReactJs      2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 % 
-Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+HTML/CSS    5 hrs 52 mins   ███████████░░░░░░░░░░░░░░   44.65 % 
+JavaScript  4 hrs 12 mins   ████████░░░░░░░░░░░░░░░░░   31.92 % 
+ReactJs     2 hrs 43 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.73 % 
+Outros      8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Git Config  8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 <!--END_SECTION:waka-->
 
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/samuel-barbosa97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&icons=true&theme=gotham" width=300 />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&icons=true&theme=gotham" />
 </a>
 
 <a href="https://github.com/samuel=barbosa97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" width=300 alt="Samuel github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" alt="Samuel github stats"/>
 </a>
 
