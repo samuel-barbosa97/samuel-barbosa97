@@ -15,7 +15,7 @@
  
 </p>
 
-<img align="right" alt="GIF" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" width="300" height="220" />
+<img align="right" alt="GIF" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" width="150" height="120" />
 
 ## **Linguagens e Ferramentas:**  
 
