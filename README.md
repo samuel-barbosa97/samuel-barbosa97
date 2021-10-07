@@ -1,7 +1,6 @@
-### Hey, Seja bem vindo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ```js
-import Desenvolvedor from 'Samuca';
+import Desenvolvedor from 'Arquivo01';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Samuel Barbosa';
@@ -12,6 +11,7 @@ class SobreMim extends Desenvolvedor {
 ```
  <p align="left">
   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
 <p align="left">
   <a href="#" alt="Gmail">
