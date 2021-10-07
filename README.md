@@ -12,9 +12,9 @@
  
 </p>
 
-<img align="right" alt="GIF" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" width="250" height="250" />
+<img align="right" alt="GIF" src="https://programathor.com.br/blog/wp-content/uploads/2018/05/fast-typing.gif" width="500" height="320" />
 
-## **Linguagens e Ferramentas:**  
+**Linguagens e Ferramentas:**  
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -28,7 +28,7 @@
 
 
 
-## **GitHub Estatísticas**
+**GitHub Estatísticas**
 
 <a href="https://github.com/samuel-barbosa97">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&theme=dracula&hide_langs_below=1" />
