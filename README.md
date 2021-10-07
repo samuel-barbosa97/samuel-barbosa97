@@ -1,19 +1,20 @@
 ### Hey, Seja bem vindo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ```js
-import Desenvolvedor from 'SeuNick';
+import Desenvolvedor from 'Samuca';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Seu nome';
-  area    = 'Sua área';
-  trabalho  = 'Onde trabalha';
-  local = 'Local';
+  nome     = 'Samuel Barbosa';
+  area    = 'Full Stack Developer';
+  faculdade  = 'Análise e Desenvolvimento de Sistemas';
+  local = 'Araraquara, São Paulo';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Suas linguagens'];
-  bibliotecas  = ['Suas bibliotecas'];
-  frameworks = ['Seus frameworks'];
+ 
+ <p align="left">
+  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+
 }
 ```
 
