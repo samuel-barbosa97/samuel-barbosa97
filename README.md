@@ -31,9 +31,8 @@ class SobreMim extends Desenvolvedor {
   <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbosa-samuel97/" /></a>
 
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997427426&text=Entre%20em%20contato%20comigo"/></a>
-
   <a href="#" alt="Twitter">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/barbosasamuel97"/></a>
 
+   <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997427426&text=Entre%20em%20contato%20comigo"/></a>
