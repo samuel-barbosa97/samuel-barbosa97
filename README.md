@@ -20,9 +20,11 @@
  
  Me chamo Samuel, mas pode me chamar de Samuca 🤙.
  
+ Tenho 24 anos, sou de Araraquara, interior de São Paulo.
+ 
  Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi, atualmente estou no 2º semestre. Desde 2021 no foco em desenvolvimento, principalmente na área Web.
  
- Devido a um acidente automobilistico no ano de 2021 fiquei um pouco limitado em algumas atividades do cotidiano, a programção me fez os olhos brilharem novamente, desde então virei um apaixonado por tecnologia e desenvolvimento.
+ Devido a um acidente automobilistico no ano de 2021 fiquei um pouco limitado em algumas atividades do cotidiano, a programção me fez os olhos brilharem novamente, desde então virei um apaixonado por tecnologia.
  
 </p>
 
@@ -58,10 +60,10 @@ Git Config   8 mins          ▒░░░░░░░░░░░░░░░░
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/samuel-barbosa97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&icons=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&icons=true&theme=gotham" width=300 />
 </a>
 
 <a href="https://github.com/samuel=barbosa97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" width=40 alt="Samuel github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" width=300 alt="Samuel github stats"/>
 </a>
 
