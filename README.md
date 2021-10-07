@@ -62,6 +62,6 @@ Git Config   8 mins          ▒░░░░░░░░░░░░░░░░
 </a>
 
 <a href="https://github.com/samuel=barbosa97">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" alt="Samuel github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" width=40 alt="Samuel github stats"/>
 </a>
 
