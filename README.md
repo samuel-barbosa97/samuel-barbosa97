@@ -9,13 +9,6 @@ class SobreMim extends Desenvolvedor {
   faculdade  = 'Análise e Desenvolvimento de Sistemas';
   local = 'Araraquara, São Paulo';
 }
-
-class Skills extends Desenvolvedor {
- 
- <p align="left">
-  <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
-
-}
 ```
 
 <p align="left">
