@@ -59,11 +59,10 @@ Git Config  8 mins          ▒░░░░░░░░░░░░░░░░�
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/samuel-barbosa97">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&icons=true&theme=gotham" />
-</a>
-
 <a href="https://github.com/samuel=barbosa97">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=gotham" alt="Samuel github stats"/>
 </a>
 
+<a href="https://github.com/samuel-barbosa97">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&icons=true&theme=gotham" />
+</a>
