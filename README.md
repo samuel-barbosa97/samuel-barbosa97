@@ -39,7 +39,8 @@ class SobreMim extends Desenvolvedor {
  
 ## **GitHub Stats**
   
-<p align="left">  
-[![card](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=OneDark)](https://github.com/samuel-barbosa97/)
-[![samuelbarbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&hide=html&layout=compact=true&theme=OneDark)](https://github.com/samuel-barbosa97/)  
+<p align="left"> 
+  
+[![card](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=onedark)](https://github.com/samuel-barbosa97/)
+[![samuelbarbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&hide=html&layout=compact=true&theme=onedark)](https://github.com/samuel-barbosa97/)  
   
