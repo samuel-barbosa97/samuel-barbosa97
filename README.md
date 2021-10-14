@@ -11,7 +11,7 @@ class SobreMim extends Desenvolvedor {
 ```
 ## **Linguagens e Ferramentas**
  
- <p align="left">
+ <p align="center">
   <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></a>
@@ -21,10 +21,18 @@ class SobreMim extends Desenvolvedor {
   <a><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
   <a><img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/></a>
+   
+## **GitHub Stats**
+  
+<div align="center">
+  <a href="https://github.com/samuel-barbosa97">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&layout=compact&langs_count=7&theme=onedark"/>
+</div>
   
  ## **Contato**
 
-<p align="left">
+<p align="center">
   <a href="#" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:samuel.alan1997@gmail.com" /></a>
 
@@ -35,12 +43,4 @@ class SobreMim extends Desenvolvedor {
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/barbosasamuel97"/></a>
 
    <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997427426&text=Entre%20em%20contato%20comigo"/></a>
- 
-## **GitHub Stats**
-  
-<p align="left"> 
-  
-[![card](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=onedark)](https://github.com/samuel-barbosa97/)
-[![samuelbarbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&hide=html&layout=compact=true&theme=onedark)](https://github.com/samuel-barbosa97/)  
-  
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997427426&text=Entre%20em%20contato%20comigo"/></a>  
