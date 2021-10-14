@@ -1,11 +1,11 @@
 
 ```js
-import Desenvolvedor from 'samuel-barbosa97';
+import Desenvolvedor from './App.js';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Samuel Barbosa';
-  area    = 'Full Stack Developer';
-  faculdade  = 'Análise e Desenvolvimento de Sistemas';
+  nome = 'Samuel Barbosa';
+  area = 'Full Stack Developer';
+  faculdade = 'Análise e Desenvolvimento de Sistemas';
   local = 'Araraquara, São Paulo';
 }
 ```
@@ -36,3 +36,10 @@ class SobreMim extends Desenvolvedor {
 
    <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997427426&text=Entre%20em%20contato%20comigo"/></a>
+ 
+## **GitHub Stats**
+  
+<p align="left">  
+[![card](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=OneDark)](https://github.com/samuel-barbosa97/)
+[![samuelbarbosa](https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&hide=html&layout=compact=true&theme=OneDark)](https://github.com/samuel-barbosa97/)  
+  
