@@ -1,11 +1,7 @@
 
-### Seja Bem-vindo 👋
-
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
-
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="300" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/comecando.gif" />
+<img align="right" width="315" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/comecando.gif" />
 
 ```js
 import Desenvolvedor from 'Index.js';
