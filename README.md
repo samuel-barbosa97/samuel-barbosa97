@@ -8,7 +8,7 @@ import Desenvolvedor from 'Index.js';
 
 class SobreMim extends Desenvolvedor {
   nome     = 'Samuel Barbosa';
-  area    = 'Full Stack Developer';
+  area    = 'Systems Development Analyst';
   trabalho  = 'Atos Company';
   local = 'Araraquara, São Paulo';
 }
