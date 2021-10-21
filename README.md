@@ -10,8 +10,9 @@ class SobreMim extends Desenvolvedor {
 }
 ```
 
-##<h3> :rocket: &nbsp;Minhas Skills </h3>
+## **🚀 Minhas Skills**
 
+<div align="center">
 **Aplicações e Dados**
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -27,18 +28,17 @@ class SobreMim extends Desenvolvedor {
 
 **Utilidades**
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 **DevOps**
 
-  <img src="https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
-<br/>
-
+  <img src="ttps://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+</div>
    
 ## **🏆GitHub Stats**
   
@@ -48,7 +48,7 @@ class SobreMim extends Desenvolvedor {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-barbosa97&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
- ## **Contato**
+ ## **📧Contato**
 
 <p align="center">
   <a href="#" alt="Gmail">
@@ -58,7 +58,7 @@ class SobreMim extends Desenvolvedor {
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/barbosa-samuel97/" /></a>
 
   <a href="#" alt="Twitter">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/barbosasamuel97"/></a>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/barbosasamuel97"/></a>
 
    <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5516997427426&text=Entre%20em%20contato%20comigo"/></a>  
