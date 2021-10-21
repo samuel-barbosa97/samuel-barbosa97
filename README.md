@@ -12,7 +12,8 @@ class SobreMim extends Desenvolvedor {
 
 ## **🚀 Minhas Skills**
 
-<div align="center">
+<p align="center">
+  
 **Aplicações e Dados**
 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -38,7 +39,7 @@ class SobreMim extends Desenvolvedor {
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-</div>
+</p>
    
 ## **🏆GitHub Stats**
   
