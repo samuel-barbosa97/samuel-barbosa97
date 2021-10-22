@@ -1,7 +1,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="315" src="https://inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif" />
+<img align="right" width="315" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/comecando.gif" />
 
 ```js
 import Desenvolvedor from 'Index.js';
