@@ -1,7 +1,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="315" src="https://analyticsindiamag.com/wp-content/uploads/2019/04/giphy-7.gif" />
+<img align="right" width="315" src="https://inspi.com.br/wp-content/uploads/2016/04/trabalhar-em-casa-jim.gif" />
 
 ```js
 import Desenvolvedor from 'Index.js';
