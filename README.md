@@ -1,7 +1,7 @@
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-<img align="right" width="315" src="http://clubedosgeeks.com.br/wp-content/uploads/2016/01/comecando.gif" />
+<img align="right" width="315" src="https://img.izismile.com/img/img10/20171212/1000/giphys_best_gifs_of_the_year_2017_11.gif" />
 
 ```js
 import Desenvolvedor from 'Index.js';
