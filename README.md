@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## ✌ Olá, meu nome é <strong>Samuel Barbosa!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Sou Análista de Desenvolvimento de Sistemas na <a href="https://atos.net/en/">Atos Brasil</a>.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Estou trabalhando em um projeto interno para o cliente <a href="https://petrobras.com.br/pt/">Petrobras</a>.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Podem entrar em contato comigo via meu <a href="https://www.linkedin.com/in/barbosa-samuel97/">LinkedIn</a>.
 
 ----
 
@@ -24,6 +24,6 @@
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ GitHub Stars
 [![card](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=dark)](https://github.com/samuel-barbosa97/)
 
