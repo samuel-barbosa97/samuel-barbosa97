@@ -1,8 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá, sou Samuel Barbosa, sou estudante de Análise de Desenvolvimento de Sistemas, sou um <strong>Desenvolvedor Java</strong>.<br>
+  Estou trabalhando em um projeto de desenvolvimento e integração de Banco de Dados á um Software de gestão de dados.
 </p>
 
 <p align="left">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Trabalho: Analista Desenvolvimento de Sistemas na <a href="https://atos.net/pt-br/brasil-atos">Atos Brasil</a>
+  💼 Trabalho: Analista de Desenvolvimento de Sistemas na <a href="https://atos.net/pt-br/brasil-atos">Atos Brasil</a>
 
 </p>
 
