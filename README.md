@@ -19,7 +19,7 @@
 </p>
 
 <p align="left">
-  💼 Trabalho: Analista Desenvolvimento de Sistemas<a href="https://atos.net/pt-br/brasil-atos">Atos Brasil</a>
+  💼 Trabalho: Analista Desenvolvimento de Sistemas na <a href="https://atos.net/pt-br/brasil-atos">Atos Brasil</a>
 
 </p>
 
