@@ -1,6 +1,6 @@
 ## ✌ Olá, meu nome é <strong>Samuel Barbosa!</strong>
 
-> Sou Análista de Desenvolvimento de Sistemas na <a href="https://atos.net/en/">Atos Brasil</a>.
+> Analista de Desenvolvimento de Sistemas na <a href="https://atos.net/en/">Atos Brasil</a>.
 
 🔭 Estou trabalhando em um projeto interno para o cliente <a href="https://petrobras.com.br/pt/">Petrobras</a>.
 
