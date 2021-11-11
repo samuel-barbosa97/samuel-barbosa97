@@ -19,8 +19,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://o.remove.bg/downloads/971693d8-a227-461d-8315-e9c6f5cff18a/269-2693201_mysql-logo-circle-png-removebg-preview.png" alt="MySQL"/></code>
+<code><img height="32" src="https://o.remove.bg/downloads/b8fe4e9d-d5be-42f1-9f45-367336c7f092/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-removebg-preview.png" alt="MongoDB"/></code>
 
 ---
 
