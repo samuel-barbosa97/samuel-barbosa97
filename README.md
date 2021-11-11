@@ -2,7 +2,7 @@
 
 > Analista de Desenvolvimento de Sistemas na <a href="https://atos.net/en/">Atos Brasil</a>.
 
-🔭 Estou trabalhando em um projeto interno em Desenvolvimento Back-End Java.
+🔭 Estou trabalhando como Desenvolvedor Back-End Java.
 
 💬 Podem entrar em contato comigo via meu <a href="https://www.linkedin.com/in/barbosa-samuel97/">LinkedIn</a>.
 
