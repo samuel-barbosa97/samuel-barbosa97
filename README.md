@@ -9,7 +9,7 @@
 ----
 
 ## 🚀 Minhas Skills
-<code><img height="32" src="https://o.remove.bg/downloads/c78b2600-d83e-4888-8c3e-58a57b44ffe9/java-removebg-preview.png" alt="Java"/></code>
+<code><img height="32" src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -19,8 +19,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://o.remove.bg/downloads/971693d8-a227-461d-8315-e9c6f5cff18a/269-2693201_mysql-logo-circle-png-removebg-preview.png" alt="MySQL"/></code>
-<code><img height="32" src="https://o.remove.bg/downloads/8db8bf01-78d2-47f1-a408-daa182aa28ff/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business-removebg-preview.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png" alt="MongoDB"/></code>
 
 ---
 
