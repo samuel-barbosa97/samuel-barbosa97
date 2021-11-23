@@ -9,7 +9,8 @@
 ----
 
 ## 🚀 Minhas Skills
-<code><img height="32" src="https://img2.gratispng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg" alt="Java"/></code>
+<code><img height="32" src="![kisspng-java-development-kit-logo-programming-language-por-java-logo-svg-5be5b5a7384425 8069537615417809032305-removebg-preview](https://user-images.githubusercontent.com/89155684/142955438-a49f5752-803a-44c1-a40c-aa738c7dad30.png)
+" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
@@ -19,8 +20,10 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://e7.pngegg.com/pngimages/747/798/png-clipart-mysql-mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png" alt="MongoDB"/></code>
+<code><img height="32" src="![png-clipart-mysql-mysql-removebg-preview](https://user-images.githubusercontent.com/89155684/142955393-67678210-c727-4b39-8277-7ad2076a2865.png)
+" alt="MySQL"/></code>
+<code><img height="32" src="![60232c7fee9f278674db9c2c_9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3-removebg-preview](https://user-images.githubusercontent.com/89155684/142955416-9a8da58d-abab-43af-a7c4-21b4c2476810.png)
+" alt="MongoDB"/></code>
 
 ---
 
