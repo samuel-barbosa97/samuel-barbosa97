@@ -1,6 +1,6 @@
 ## ✌ Olá, meu nome é <strong>Samuel Barbosa!</strong>
 
-> Analista de Desenvolvimento de Sistemas na <a href="https://atos.net/en/">Atos Brasil</a>.
+> Software Enginner na <a href="https://www.linkedin.com/company/f1rsttecnologia/mycompany/">F1RST Tecnologia</a>.
 
 🔭 Estou trabalhando como Desenvolvedor Back-End Java.
 
