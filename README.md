@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá, meu nome é <strong>{Samuel}!</strong>
 
-<!--
-**samuel-barbosa97/samuel-barbosa97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Atualmente estou atuando como Desenvolvedor Java Sênior no PagBank [PagBank](https://pagseguro.uol.com.br/?utm_source=google&utm_medium=g&utm_campaign=1904098269-_77305792504&utm_content=665304054940&utm_term=pagbank-_e&gclid=Cj0KCQiAr8eqBhD3ARIsAIe-buP23sy_C_6rWsZfyDwsn7wA1pssPLhhb18kVkegR9lFmgCmfwmw0JoaAj8oEALw_wcB).
 
-Here are some ideas to get you started:
+💬 Você pode entrar em contato comigo via LinkedIn [LinkedIn](https://www.linkedin.com/in/barbosa-samuel97/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git,docker,java,kotlin" />
+  </a>
+</p>
+
+---
+
+## Informações sobre minha conta GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=dark&show_icons=true)
