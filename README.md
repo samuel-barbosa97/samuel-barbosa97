@@ -8,17 +8,11 @@
 
 ## Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,docker,java,kotlin" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=aws,git,docker,java,kotlin,kafka&perline=3)](https://skillicons.dev)
 
 ---
 
 ## Informações sobre minha conta GitHub
 
-<p align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samuel-barbosa97&theme=dark&show_icons=true)
-</p>
 
