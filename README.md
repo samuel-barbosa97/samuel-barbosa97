@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Samuel!</strong>
 
-💻 Desenvolvedor Kotlin na [GFT](https://www.gft.com/br/pt).
+💻 Desenvolvedor Java Sênior na [Softvaro](https://softvaro.com.br/).
 
 💬 Você pode entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/barbosa-samuel97/).
 
