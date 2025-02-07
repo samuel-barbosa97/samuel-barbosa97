@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Samuel!</strong>
 
-💻 Desenvolvedor Java Sênior na [Softvaro](https://softvaro.com.br/).
+💻 Desenvolvedor Java Sênior na [Foursys](https://www.foursys.com.br/).
 
 💬 Você pode entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/barbosa-samuel97/).
 
