@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Samuel!</strong>
 
-💻 Desenvolvedor Java Sênior na [Foursys](https://www.foursys.com.br/).
+💻 Desenvolvedor Kotlin Sênior na [CI&T](https://ciandt.com/br/pt-br/home).
 
 💬 Você pode entrar em contato comigo via [LinkedIn](https://www.linkedin.com/in/barbosa-samuel97/).
 
